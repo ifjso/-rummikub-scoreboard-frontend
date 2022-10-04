@@ -51,7 +51,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ifjso.github.io/rummikub-scoreboard",
+  "homepage": "https://ifjso.github.io/rummikub-scoreboard-frontend",
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-config-airbnb": "^18.0.1",
