@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11389c7ad1bd5598c5b9cc44fdcfed59",
+    "revision": "4e2b799983604bfc647a7615bfc6c775",
     "url": "/rummikub-scoreboard-frontend/index.html"
   },
   {
-    "revision": "95acad27015936c6d8f4",
+    "revision": "24489be776df46f64745",
     "url": "/rummikub-scoreboard-frontend/static/css/main.c11caca2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rummikub-scoreboard-frontend/static/js/2.90f9e6df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95acad27015936c6d8f4",
-    "url": "/rummikub-scoreboard-frontend/static/js/main.e42826af.chunk.js"
+    "revision": "24489be776df46f64745",
+    "url": "/rummikub-scoreboard-frontend/static/js/main.25eb3e97.chunk.js"
   },
   {
     "revision": "e74209a348c0d7388e2f",
