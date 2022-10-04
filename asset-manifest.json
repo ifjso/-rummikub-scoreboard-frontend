@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/rummikub-scoreboard-frontend/static/css/main.c11caca2.chunk.css",
+    "main.js": "/rummikub-scoreboard-frontend/static/js/main.e42826af.chunk.js",
+    "main.js.map": "/rummikub-scoreboard-frontend/static/js/main.e42826af.chunk.js.map",
+    "runtime-main.js": "/rummikub-scoreboard-frontend/static/js/runtime-main.d31ea395.js",
+    "runtime-main.js.map": "/rummikub-scoreboard-frontend/static/js/runtime-main.d31ea395.js.map",
+    "static/js/2.90f9e6df.chunk.js": "/rummikub-scoreboard-frontend/static/js/2.90f9e6df.chunk.js",
+    "static/js/2.90f9e6df.chunk.js.map": "/rummikub-scoreboard-frontend/static/js/2.90f9e6df.chunk.js.map",
+    "index.html": "/rummikub-scoreboard-frontend/index.html",
+    "precache-manifest.1cff4ae1847285299be0963869286936.js": "/rummikub-scoreboard-frontend/precache-manifest.1cff4ae1847285299be0963869286936.js",
+    "service-worker.js": "/rummikub-scoreboard-frontend/service-worker.js",
+    "static/css/main.c11caca2.chunk.css.map": "/rummikub-scoreboard-frontend/static/css/main.c11caca2.chunk.css.map",
+    "static/js/2.90f9e6df.chunk.js.LICENSE.txt": "/rummikub-scoreboard-frontend/static/js/2.90f9e6df.chunk.js.LICENSE.txt",
+    "static/media/histories_inactive.png": "/rummikub-scoreboard-frontend/static/media/histories_inactive.38825927.png",
+    "static/media/scoreboard_inactive.png": "/rummikub-scoreboard-frontend/static/media/scoreboard_inactive.3334f4a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d31ea395.js",
+    "static/js/2.90f9e6df.chunk.js",
+    "static/css/main.c11caca2.chunk.css",
+    "static/js/main.e42826af.chunk.js"
+  ]
+}
