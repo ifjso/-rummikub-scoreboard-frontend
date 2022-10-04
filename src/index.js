@@ -20,7 +20,7 @@ sagaMiddleware.run(rootSaga);
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter basename="/rummikub-scoreboard">
+    <BrowserRouter basename="/rummikub-scoreboard-frontend">
       <App />
     </BrowserRouter>
   </Provider>,
